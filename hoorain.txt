@@ -1,0 +1,2 @@
+hello
+i am now making the repository and then i will push to the git hub
